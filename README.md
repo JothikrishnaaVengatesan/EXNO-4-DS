@@ -23,8 +23,8 @@ The feature selection techniques used are:
 2.Wrapper Method
 3.Embedded Method
 
-### Name : Junjar U
-### Register Number: 212224230110
+### Name : Jothikrishnaa V
+### Register Number: 212223100017
 
 # CODING AND OUTPUT:
        import pandas as pd
